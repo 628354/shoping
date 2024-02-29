@@ -24,8 +24,8 @@ To run the application locally, follow the instructions below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-website-assignment.git
-   cd react-website-assignment
+   git clone https://github.com/628354/shoping.git
+  
 
 **Install dependencies:**
 npm install
